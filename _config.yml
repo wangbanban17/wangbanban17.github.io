@@ -3,7 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-name: Wang Banban 王班班
+first_name: Wang 
+last_name: Banban 王班班
 email: banban.wang(at)uni-heidelberg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Historian and reader
