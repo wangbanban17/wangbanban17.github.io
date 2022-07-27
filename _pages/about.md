@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: <a href='https://www.materiale-textkulturen.de/person.php?n=306'>Universität Heidelberg</a>. Address. Contacts. Moto. Etc.
 
 profile:
