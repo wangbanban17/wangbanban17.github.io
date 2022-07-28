@@ -2,7 +2,7 @@
 layout: page
 title: Correspondence between cities and kings
 description: BA-1/2 Source Reading Course
-page.pdf: korrespondenz_semesterplan.pdf
+pdf: korrespondenz_semesterplan.pdf
 importance: 1
 category: Heidelberg
 ---
