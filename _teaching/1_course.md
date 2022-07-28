@@ -3,22 +3,11 @@ layout: page
 title: Correspondence between cities and kings
 description: BA-1/2 Source Reading Course
 img:
-importance: 3
+importance: 1
 category: Heidelberg
 ---
 
-Every course has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your course a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: course
-    description: a course with a background image
-    img: /assets/img/12.jpg
-    ---
+<a href="{{ korrespondenz_semesterplan.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf">Semesterplan</i></a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
