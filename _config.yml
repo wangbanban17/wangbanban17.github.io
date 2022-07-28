@@ -223,7 +223,7 @@ scholar:
   last_name: Wang
   first_name: [Banban, B.B.]
 
-  style: chicago
+  style: apa
   locale: en
 
   source: /_bibliography/
