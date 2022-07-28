@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Wang Banban
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1994-01-17
     - name: Languages
-      value: English, German
+      value: Chinese, English, German, French, Italian, Japanese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Heidelberg University, Seminar für Alte Geschichte und Epigraphik
+      year: 2019 - 2023
       description:
-        - Description 1.
+        - »Life of Inscribed Monuments.Epigraphic Landscape and Material Text Culture in Hellenistic Delphi«.
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MA Research
+      institution: Leiden University, Institute for History
+      year: 2017 - 2019
       description:
-        - Description 1.
-        - Description 2.
+        - <i>Cum laude</i>.
+        - Ancient History.
 
 - title: Experience
   type: time_table

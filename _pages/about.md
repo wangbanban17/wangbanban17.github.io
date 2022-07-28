@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.materiale-textkulturen.de/person.php?n=306'>Universität Heidelberg</a>. Address. Contacts. Moto. Etc.
+subtitle: Homepage of a non-white historian working at <a href='https://www.materiale-textkulturen.de/person.php?n=306'>Universität Heidelberg</a>
 
 profile:
   align: right
@@ -18,8 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello world! Thank you for visiting my site!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am Wang Banban, a historian wandering in stones and books. Here you will find my ideas, my work, and sometimes my complaints: mostly about Graeco-Roman antiquity, but also about histories in general!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) at the [Collaborative Research Centre 933 "Material Text Cultures"](https://www.materiale-textkulturen.org) at Heidelberg University (Germany). At the same time I am finalising my PhD dissertation on the epigraphic culture in the Hellenistic sanctuary of Apollo at Delphi (Greece). 
+
+> A historian’s hobby is reading histories from all times and spaces.
+
+I am training myself to become a digital humanist, focussing especially on the digitalisation of Greek inscriptions. As an amateur translator, I have translated two research books from English to Chinese, and many inscriptions from Greek to English or French. Once a student activist, I wish that students and scholars can unite ourselves for a better future. 
+

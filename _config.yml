@@ -9,13 +9,13 @@ email: banban.wang(at)uni-heidelberg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Historian and reader
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Copyright 2022 Wang Banban Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: triskeles.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://wangbanban17.github.io/ # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -69,9 +69,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: wangbanban17 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: wangbb404 # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: banban-wang # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-0336-3080 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -84,7 +84,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I reply to emails very quickly!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -100,9 +100,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Triskeles # blog_name will be displayed in your blog page
+blog_nav_title: Triskeles # your blog must have a title for it to be displayed in the nav bar
+blog_description: A Blog for Nothing
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -110,15 +110,12 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: Triskeles # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -133,6 +130,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teaching:
+	output: true
+	permalink: /teaching/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
@@ -220,10 +220,10 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Wang
+  first_name: [Banban, B.B.]
 
-  style: apa
+  style: chicago
   locale: en
 
   source: /_bibliography/
@@ -295,6 +295,7 @@ enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
+enable_course_categories: true   # enables categorization of course into multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
 
