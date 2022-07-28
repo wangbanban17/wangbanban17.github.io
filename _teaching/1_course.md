@@ -2,12 +2,12 @@
 layout: page
 title: Correspondence between cities and kings
 description: BA-1/2 Source Reading Course
-img:
+page.pdf: korrespondenz_semesterplan.pdf
 importance: 1
 category: Heidelberg
 ---
 
-<a href="{{ korrespondenz_semesterplan.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf">Semesterplan</i></a>
+<a href="{{ page.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf">Semesterplan</i></a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
