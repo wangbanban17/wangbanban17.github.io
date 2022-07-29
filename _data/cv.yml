@@ -15,18 +15,25 @@
       institution: Heidelberg University, Seminar für Alte Geschichte und Epigraphik
       year: 2019 - 2023
       description:
-        - »Life of Inscribed Monuments.Epigraphic Landscape and Material Text Culture in Hellenistic Delphi«.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - »Life of Inscribed Monuments.Epigraphic Landscape and Material Text Culture in Hellenistic Delphi« (working title).
+        - Greek Epigraphy and its Materiality.
+		- title: Supervised by
+		  contents:
+			  - Prof.dr. Kai Trampedach.
+			  - Dr. Anna Sitz.
     - title: MA Research
       institution: Leiden University, Institute for History
       year: 2017 - 2019
       description:
         - <i>Cum laude</i>.
         - Ancient History.
+	- title: Bachelor of History
+	  institution: Peking University, Yuanpei College/Dept. of History
+	  year: 2012 - 2016
+	  description:
+		- World History + Chinese History.
+		- BA Thesis on Early Greek Christianity.
+		- with a special focus on historical theory.
 
 - title: Experience
   type: time_table
