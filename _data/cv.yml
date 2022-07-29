@@ -27,13 +27,13 @@
       description:
         - <i>Cum laude</i>.
         - Ancient History.
-        - title: Bachelor of History
-          institution: Peking University, Yuanpei College/Dept. of History
-          year: 2012 - 2016
-          description:
-            - World History + Chinese History.
-            - BA Thesis on Early Greek Christianity.
-            - with a special focus on historical theory.
+    - title: Bachelor of History
+      institution: Peking University, Yuanpei College/Dept. of History
+      year: 2012 - 2016
+      description:
+        - World History + Chinese History.
+        - BA Thesis on Early Greek Christianity.
+        - with a special focus on historical theory.
 
 - title: Experience
   type: time_table
