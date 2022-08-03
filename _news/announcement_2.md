@@ -1,15 +1,15 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Workshop for Attic Inscriptions in Delphi
+date: 2022-08-03 09:30:00+0200
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The **Seminar für Alte Geschichte und Epigraphik** at Heidelberg is in collaboration with the <a href="https://www.atticinscriptions.com"><i>Attic Inscription Online</i></a>, contributing to the online database with selected Attic inscriptions found in Delphi. A preparatory workshop is held on 03 August 2022.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+I present on various name lists of the second Pythaïs, inscribed on the Athenian Treasury. 
 
 #### Hipster list
 <ul>
