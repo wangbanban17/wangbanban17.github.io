@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
+    <p>banban.wang[at]uni-heidelberg.de</p>
     <p>Marstallstraße 6, Room 109</p>
     <p>69115 Heidelberg</p>
     <p>Germany</p>
