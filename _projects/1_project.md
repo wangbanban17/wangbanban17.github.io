@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Redraw Inscription Dispositions in Delphi
+description: an archaeological redrae
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -11,6 +11,16 @@ category: Heidelberg
 
 In the Summer Semester 2022 I taught a source reading course (<i>Quellenübung</i>) at the Seminar für Alte Geschichte und Epigraphik, Heidelberg. 
 
+## Description
+
+> Die Korrespondenz zwischen hellenistischen Königen und griechischen Städten stellt ein fruchtbares Quellenkorpus dar, das Historiker:innen ermöglicht, den Informationsfluss, die politische Verhandlungen und die städtische Institutionen in dieser chaotischen Zeit zu verstehen. Die königlichen Briefe weisen einen selbstbewussten und performativen Stil auf und bieten Raum für textliche und materielle Interaktionen. Sie werden zum einen an den Königshöfen geschrieben, archiviert und überliefert, zum anderen im öffentlichen Raum der griechischen Städte gelesen und zur Schau gestellt als Repräsentation der königlichen Macht und der Verbindung zwischen Städen und Königen. Im Rahmen dieser Übung sollen die Quellen entweder in deutscher oder englischer Übersetzung vorgestellt werden. Wir werden an dem archäologisch-materiellen Kontext der Korrespondenz arbeiten.
+
+## Reflection
+
+History is a science of contexts.
+As a reading course for first year BA students, reading epigraphic sources can be particularly difficult, as they lack the information of context.
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

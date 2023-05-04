@@ -26,6 +26,7 @@ I am Wang Banban, a historian wandering in stones and books. Here you will find 
 I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) at the [Collaborative Research Centre 933 "Material Text Cultures"](https://www.materiale-textkulturen.org) at Heidelberg University (Germany). At the same time I am finalising my PhD dissertation on the epigraphic culture in the Hellenistic sanctuary of Apollo at Delphi (Greece).
 
 > A historian’s hobby is reading histories from all times and spaces.
+> History is a science on contexts.
 
 I am training myself to become a digital humanist, focussing especially on the digitalisation of Greek inscriptions. As an amateur translator, I have translated two research books from English to Chinese, and many inscriptions from Greek to English or French. Once a student activist, I wish that students and scholars can unite ourselves for a better future.
 
