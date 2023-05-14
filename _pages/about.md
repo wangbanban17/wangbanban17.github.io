@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello world! Thank you for visiting my site!
 
-I am Wang Banban, a historian wandering in stones and books. Here you will find my ideas, my work, and sometimes my complaints: mostly about Graeco-Roman antiquity, but also about histories in general!
+I am Wang Banban (no pronoun/him/his), a historian wandering in stones and books. Here you will find my ideas, my work, and sometimes my complaints: mostly about Graeco-Roman antiquity, but also about histories in general!
 
 I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) at the [Collaborative Research Centre 933 "Material Text Cultures"](https://www.materiale-textkulturen.org) at Heidelberg University (Germany). At the same time I am finalising my PhD dissertation on the epigraphic culture in the Hellenistic sanctuary of Apollo at Delphi (Greece).
 
