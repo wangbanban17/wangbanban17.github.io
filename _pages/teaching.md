@@ -3,8 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Material about my teaching experience
-nav: true
-nav_order: 5
+nav: false
 display_categories: [Heidelberg, elsewhere]
 horizontal: false
 ---

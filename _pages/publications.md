@@ -4,8 +4,7 @@ permalink: /publications/
 title: publications
 description: My publications.
 years: [2021]
-nav: true
-nav_order: 1
+nav: false
 ---
 <!-- _pages/publications.md -->
 <div class="publications">

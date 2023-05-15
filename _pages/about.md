@@ -11,7 +11,7 @@ profile:
   address: >
     <p>banban.wang[at]uni-heidelberg.de</p>
     <p>Marstallstraße 6, Room 109</p>
-    <p>69115 Heidelberg</p>
+    <p>69117 Heidelberg</p>
     <p>Germany</p>
 
 news: true  # includes a list of news items
@@ -31,3 +31,5 @@ I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) a
 I am training myself to become a digital humanist, focussing especially on the digitalisation of Greek inscriptions. As an amateur translator, I have translated two research books from English to Chinese, and many inscriptions from Greek to English or French. Once a student activist, I wish that students and scholars can unite ourselves for a better future.
 
 The logo is designed after Triskeles.
+
+Get my other links [here](https://linkfro.de/Nanimonai404)!
