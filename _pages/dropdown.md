@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: academic life
 nav: true
 nav_order: 3
 dropdown: true

@@ -1,3 +1,10 @@
+This is the public repository for my personal website. I am very lucky to find this great template: it requires minimal skills to make my own website. Hugely grateful to the contributors!
+
+Wang Banban
+2023-05-17
+
+---
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [core_contributors]: https://img.shields.io/badge/core_contributors-3-orange.svg 'Number of core contributors'
