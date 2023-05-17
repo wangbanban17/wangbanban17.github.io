@@ -2,7 +2,7 @@
 layout: page
 title: Redraw Inscription Dispositions in Delphi
 description: an archaeological redrae
-img: assets/img/athenian_treasury_est.jpeg
+img: assets/img/athenian_treasury_east.jpeg
 importance: 1
 category: work
 ---
