@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Homepage of a non-white historian working 
+subtitle: Homepage of a non-white historian
 
 profile:
   align: right
@@ -30,8 +30,6 @@ I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) a
 > History is a science on contexts.
 
 I am training myself to become a digital humanist, focussing especially on the digitalisation of Greek inscriptions and web disposition of texts and data. As an amateur translator, I have translated two research books from English to Chinese, and many inscriptions from Greek to English or French. Once a student activist, I wish that students and scholars can unite ourselves for a better future.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Get my other links [here](https://linkfro.de/Nanimonai404)!
 
