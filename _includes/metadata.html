@@ -87,6 +87,9 @@
         {%- capture link -%}https://www.linkedin.com/in/{{ site.linkedin_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
+    {%- if site.instagram_username -%}
+        {%- capture link -%}https://www.instagram.com/{{ site.instagram_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- if site.twitter_username -%}
         {%- capture link -%}https://twitter.com/{{ site.twitter_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
