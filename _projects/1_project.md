@@ -25,7 +25,7 @@ category: work
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
