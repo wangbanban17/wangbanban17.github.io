@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Consulting squeezes at *Inscriptiones Graecae* in Berlin. Definitely come back in November!
+Consulting squeezes at [*Inscriptiones Graecae*](https://ig.bbaw.de/de) in Berlin. Definitely come back in November!
