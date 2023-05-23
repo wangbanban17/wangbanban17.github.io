@@ -1,6 +1,6 @@
 ---
 layout: page
-title: academic life
+title: academia
 nav: true
 nav_order: 3
 dropdown: true
