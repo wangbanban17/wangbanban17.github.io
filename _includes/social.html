@@ -1,5 +1,5 @@
             {%- if site.email -%}
-            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fab fa-envelope"></i></a>
+            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
             {% endif %}
             {%- if site.cal_username -%}
             <a href="https://cal.com/{{ site.cal_username }}" title="cal"><i class="fab fa-calendar"></i><a>
@@ -41,8 +41,8 @@
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
             {% endif %}
             {%- if site.mastodon_username -%}
-            <a rel="me" href="https://{{ site.mastodon_username  }}" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
-            <a href="{{ site.work_url }}" title="Work"><i class="fab fa-briefcase"></i></a>
+            <a rel="me" href="https://{{ site.mastodon_username  }}" title="Mastodon"><i class="fab fa-mastodon"></i></a>
+            <a href="{{ site.work_url }}" title="Work"><i class="fas fa-briefcase"></i></a>
             {% endif %}
             {%- if site.wikidata_id -%}
             <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fas fa-barcode"></i></a>
@@ -93,5 +93,5 @@
             <a href="https://discord.com/users/{{ site.discord_id }}" title="Discord"><i class="fab fa-discord"></i></a>
             {% endif %}
             {%- if site.rss_icon -%}
-            <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fab fa-rss"></i></a>
+            <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             {% endif %}
