@@ -3,8 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Wang 
-last_name: Banban 王班班
+given_name: Wang 
+family_name: Banban
+original_name: 王班班
+pronoun: ø / his / him
 email: banban.wang@uni-heidelberg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Historian and reader
@@ -73,9 +75,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: wangbanban17 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: wangbb404 # your Twitter handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: mastodon.online/triskeles404 # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: banban-wang # your LinkedIn user name
-telegram_username: # your Telegram user name
+cal_username: nanimonai404
+telegram_username: Nanimonai_W # your Telegram user name
 instagram_username: nanimonai_bw # your instagram name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID

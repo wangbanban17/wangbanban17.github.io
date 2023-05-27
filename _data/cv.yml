@@ -2,36 +2,36 @@
   type: map
   contents:
     - name: Full Name
-      value: Wang Banban
+      value: Wang Banban 王班班
     - name: Pronoun
       value: no pronoun / him / his
     - name: Date of Birth
-      value: 17 January 1994
+      value: 17.01.1994
     - name: Languages
-      value: Chinese, English, German, French, Italian, Japanese
+      value: Mandarin, English, German, French, Italian, Japanese
     - name: Contact
-      value: banban.wang.94[at]gmail.com
+      value: banban.wang.peking[at]hotmail.com
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Heidelberg University, Seminar für Alte Geschichte und Epigraphik
+      institution: Ruprecht-Karls-Universität Heidelberg, Seminar für Alte Geschichte und Epigraphik
       year: 2019 - 2023
       description:
-        - »Life of Inscribed Monuments.Epigraphic Landscape and Material Text Culture in Hellenistic Delphi« (working title).
-        - Greek Epigraphy and its Materiality.
+        - »Epigrpahic Life of Monuments–Epigraphic Landscape and Material Text Culture in Hellenistic Delphi« (working title).
+        - Greek Epigraphy and its Materiality in the sanctuary of Delphi, 346–27 BCE.
         - title: Supervised by
           contents:
             - Prof.Dr. Kai Trampedach.
             - Dr. Anna Sitz.
     - title: MA Research
-      institution: Leiden University, Institute for History
+      institution: Universiteit Leiden, Institute for History
       year: 2017 - 2019
       description:
-        - <i>Cum laude</i>.
-        - Ancient History.
-    - title: Bachelor of History
+        - <i>cum laude</i>.
+        - Ancient History, with a focus on epigraphy and numismatics
+    - title: BA History
       institution: Peking University, Yuanpei College/Dept. of History
       year: 2012 - 2016
       description:
@@ -62,6 +62,18 @@
     - title: Attic Inscriptions in Delphi
       year: 2022-now
       description: Collaborations with <a href="https://www.atticinscriptions.com/">Attic Inscriptions Online</a> on Attic texts in Delphi. I work on inscriptions for the second <i>Pythaïs</i> (128/7 BCE).
+      
+- title: Teaching
+  type: time_table
+  contents:
+      - title: Korrespondenz zwischen Königen und Städten, Texte und Materialität
+        institution: Seminar für Alte Geschichte und Epigraphik, Uni-Heidelberg
+        year: Summer 2022
+        description: BA-1/2 Reading course (<i>Quellenübung</i>).
+      - title: Griechische Bundesstaaten
+        institution: Seminar für Alte Geschichte und Epigraphik, Uni-Heidelberg
+        year: Summer 2022
+        description: BA-3 Research seminar
 
 - title: Academic Interests
   type: nested_list
@@ -79,7 +91,7 @@
 - title: Societal Interests
   type: nested_list
   contents:
-    - title: Anti-racism
+    - title: <a href="https://www.stura.uni-heidelberg.de/vs-strukturen/referate/rassismus-und-diskriminierung/" class="highlight">Anti-racism</a>
       items:
         - against racism in academic sphere
         - help in tackling anti-Asian racism

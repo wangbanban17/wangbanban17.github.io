@@ -32,5 +32,3 @@ I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) a
 I am training myself to become a digital humanist, focussing especially on the digitalisation of Greek inscriptions and web disposition of texts and data. As an amateur translator, I have translated two research books from English to Chinese, and many inscriptions from Greek to English or French. Once a student activist, I wish that students and scholars can unite ourselves for a better future.
 
 Get my other links [here](https://linkfro.de/Nanimonai404)!
-
-Feel free to contact me or make an appointment through email or at [Cal.com](https://cal.com/nanimonai404)
