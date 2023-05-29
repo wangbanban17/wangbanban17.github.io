@@ -22,3 +22,4 @@ When writing my dissertation, I find that so many old sketches on the dispositio
    Three examples here: left, the north façade of the Athenian Treasury (<strong><i>SD</i></strong> 223); middle, the Arkadian statues (<strong><i>SD</i></strong> 105); right, the monument for Aemilius Paulus (<strong><i>SD</i></strong> 418)
 </div>
 
+In preparation

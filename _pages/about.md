@@ -24,11 +24,10 @@ Hello world! Thank you for visiting my site!
 
 I am Wang Banban (no pronoun/him/his), a historian wandering in stones and books. Here you will find my ideas, my work, and sometimes my complaints: mostly about Graeco-Roman antiquity, but also about histories in general!
 
-I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) at the [Collaborative Research Centre 933 "Material Text Cultures"](https://www.materiale-textkulturen.org) at <a href='https://www.materiale-textkulturen.de/person.php?n=306'>Heidelberg University</a> (Germany). At the same time I am finalising my PhD dissertation on the epigraphic culture in the Hellenistic sanctuary of Apollo at Delphi (Greece).
+I currently work as a research associate (or *wissenschaftlicher Mitarbeiter*) at the [Collaborative Research Centre 933 "Material Text Cultures"](https://www.materiale-textkulturen.org) at <a href='https://www.materiale-textkulturen.de/person.php?n=306'>Heidelberg University</a> (Germany). At the same time I am finalising my PhD dissertation on the epigraphic culture in the Hellenistic sanctuary of Apollo at [Delphi](https://arachne.dainst.org/entity/1552) (Greece).
 
 > A historian’s hobby is reading histories from all times and spaces.
 > History is a science on contexts.
 
-I am training myself to become a digital humanist, focussing especially on the digitalisation of Greek inscriptions and web disposition of texts and data. As an amateur translator, I have translated two research books from English to Chinese, and many inscriptions from Greek to English or French. Once a student activist, I wish that students and scholars can unite ourselves for a better future.
+I am training myself to become a digital humanist, focusing especially on the digitalisation of Greek inscriptions and web disposition of texts and data. As an amateur translator, I have translated two research books from English to Chinese, and many inscriptions from Greek to English or French. Once a student activist, I wish that students and scholars can unite ourselves for a better future.
 
-Get my other links [here](https://linkfro.de/Nanimonai404)!

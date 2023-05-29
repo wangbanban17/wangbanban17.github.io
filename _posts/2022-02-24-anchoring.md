@@ -5,12 +5,12 @@ title: anchoring monumental landscape in Delphi
 description: a talk draft for a workshop at Universiteit Utrecht
 giscus_comments: true
 date: 2022-02-24
+tags: academic
 permalink: /blog/2022/utrecht/
 authors:
   - name: Wang Banban
     url: "https://wangbanban17.github.io"
-    affiliations:
-    name: Ruprecht-Karls-Universität Heidelberg
+    affiliation: Ruprecht-Karls-Universität Heidelberg
     
 bibliography: 2022-02-24-Gent.bib
     
