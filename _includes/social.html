@@ -1,8 +1,8 @@
             {%- if site.email -%}
-            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-regular fa-envelope"></i></a>
+            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
             {% endif %}
             {%- if site.cal_username -%}
-            <a href="https://cal.com/{{ site.cal_username }}" title="cal"><i class="fa-sharp fa-regular fa-calendar"></i><a>
+            <a href="https://cal.com/{{ site.cal_username }}" title="cal"><i class="fa-solid fa-regular fa-calendar"></i><a>
             {% endif %}
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>

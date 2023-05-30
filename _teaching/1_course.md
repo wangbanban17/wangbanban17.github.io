@@ -7,7 +7,7 @@ importance: 1
 category: Heidelberg
 ---
 
-<a href="{{ page.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf">Semesterplan/Syllabus</i></a>
+<a href="{{ page.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fa-solid fa-file-pdf">Semesterplan/Syllabus</i></a>
 
 In the Summer Semester 2022 I taught a source reading course (<i>Quellenübung</i>) at the <i>Seminar für Alte Geschichte und Epigraphik</i>, Heidelberg. 
 
