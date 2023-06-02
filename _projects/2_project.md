@@ -2,7 +2,7 @@
 layout: page
 title: Attic Inscriptions in Delphi
 description: epigraphy in education
-img: assets/img/AID_Logo.svg
+img: assets/img/AID_logo.svg
 importance: 1
 category: work
 ---
