@@ -83,10 +83,18 @@
         - Material aspects of inscriptions
         - Hellenistic and Late Antiquity
         - Digital epigraphy
-    - title: Social History
+    - title: Social history
       items:
         - Greek slavery
         - Foreigners in ancient cities
+    - title: Reception history
+      items:
+          - Graeco-Roman antiquity and colonialism
+          - Comparative history
+    - title: Historical theory and philosophy of history
+      items:
+          - Historical representation
+          - Narrative and historicity
 
 - title: Societal Interests
   type: nested_list

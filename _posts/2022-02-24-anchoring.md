@@ -12,21 +12,23 @@ authors:
     url: "https://wangbanban17.github.io"
     affiliations: Ruprecht-Karls-Universität Heidelberg
     
-bibliography: 2022-02-24-Gent.bib
+bibliography: 2022-02-24-anchoring.bib
     
 ---
 
-# Anchoring the Monumental Landscape: 
+# Anchoring the Monumental Landscape
 
 Early Roman inscriptions contextualised in the Hellenistic sanctuary of Apollo Pythios
 
-## preamble 
+A talk for the workshop [Anchoring Innovation in Delphi](https://anchoringinnovation.nl/events/workshop-anchoring-innovation-in-delphi), at Universiteit Utrecht.
 
-This is the first in-person academic conference I’ve participated in during the COVID times, and the last country I visited before the pandemic was the Netherlands. The last time I was at Utrecht Centraal, my German sounded like Dutch; and now, my Dutch bears a strong German accent. The pandemic has changed so much our world that everyone is anxious to find new stabilities and rules for living, but the old anchors may need serious reconsiderations. 
+---
 
-## Delphi as the spatial testimony
+This is the first in-person academic conference I’ve participated in during the COVID times, and the last country I visited before the pandemic was the Netherlands. The last time I was at Utrecht Centraal, my German sounded like Dutch; and now, my Dutch bears a strong German accent. The pandemic has changed our world so much that everyone is anxious to find new stabilities and rules for living, but the old anchors may need serious reconsiderations. 
 
-So much for contemporary issues and now let’s scale back twenty three centuries, towards the early second century before the Christian era, another time period when great changes took place. Entrance and Involvement of the Romans in the Eastern Mediterranean Area gave birth to "a change for a millenium" which permanently transformed the area. The main playground of our workshop, Delphi, was definitely a crucial space within this transformation. All the major changes brought by the external powers tend to bring materialisation of new power, structure and newly constructed memory in this space, which witnessed all kinds of physical testimonies to previous glories. Romans were, perhaps, just a new dominant power initially, and only later did the Delphians know the dominance would last long. *This presentation brings ideas on how the new power, the Romans took the Hellenistic sanctuary and injected their practice in this Greek landmark.*
+So much for contemporary issues and now let’s scale back twenty three centuries, towards the early second century before the Christian era, another time period when great changes took place.
+
+Entrance and Involvement of the Romans in the Eastern Mediterranean Area gave birth to "a change for a millenium" which permanently transformed the area. The main playground of our workshop, Delphi, was definitely a crucial space within this transformation. All the major changes brought by the external powers tend to bring materialisation of new power, structure and newly constructed memory in this space, which witnessed all kinds of physical testimonies to previous glories. Romans were, perhaps, just a new dominant power initially, and only later did the Delphians know the dominance would last long. This presentation brings ideas on how the new power, the Romans took the Hellenistic sanctuary and injected their practice in this Greek landmark.
 
 ## Start with a statue
 
