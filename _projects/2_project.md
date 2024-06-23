@@ -18,4 +18,4 @@ I also designed this logo on the basis of my sketch for the east face of the Ath
 
 The first [*ouvrage*](https://atticinscriptions.com/browse/bypublicationdate/2023-6-5/) has been online since 05.06.2023.
 
-The texts I work on will be published on 31.07.2023! I'll add a link to all my works here at that time.
+The texts I work on wer published on 03.12.2023. Please check them [here](https://www.atticinscriptions.com/browse/bypublicationdate/2023-12-03/)!

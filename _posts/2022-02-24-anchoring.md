@@ -10,7 +10,8 @@ permalink: /blog/2022/utrecht/
 authors:
   - name: Wang Banban
     url: "https://wangbanban17.github.io"
-    affiliations: Ruprecht-Karls-Universität Heidelberg
+    affiliations: 
+      name: Ruprecht-Karls-Universität Heidelberg
     
 bibliography: 2022-02-24-anchoring.bib
     
