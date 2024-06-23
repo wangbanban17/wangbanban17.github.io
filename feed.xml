@@ -1,5 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://wangbanban17.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://wangbanban17.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-07T13:16:18+00:00</updated><id>https://wangbanban17.github.io//feed.xml</id><title type="html">blank</title><subtitle>Historian and reader
-</subtitle><entry><title type="html">About my name</title><link href="https://wangbanban17.github.io//blog/2023/Name/" rel="alternate" type="text/html" title="About my name" /><published>2023-06-06T21:01:00+00:00</published><updated>2023-06-06T21:01:00+00:00</updated><id>https://wangbanban17.github.io//blog/2023/Name</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2023/Name/"><![CDATA[<h1 id="tldr">TL;DR</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://wangbanban17.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://wangbanban17.github.io//" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-23T20:32:01+00:00</updated><id>https://wangbanban17.github.io//feed.xml</id><title type="html">blank</title><subtitle>Historian and reader
+</subtitle><entry><title type="html">一些錢幣學術語</title><link href="https://wangbanban17.github.io//blog/2024/terminology-numismatics/" rel="alternate" type="text/html" title="一些錢幣學術語" /><published>2024-06-06T21:01:00+00:00</published><updated>2024-06-06T21:01:00+00:00</updated><id>https://wangbanban17.github.io//blog/2024/terminology-numismatics</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2024/terminology-numismatics/"><![CDATA[]]></content><author><name></name></author><category term="work" /><category term="translation" /><summary type="html"><![CDATA[discussions on term translations concerning numismatics]]></summary></entry><entry><title type="html">Letters in Greek epigraphic landscape</title><link href="https://wangbanban17.github.io//blog/2024/delphic_chronology/" rel="alternate" type="text/html" title="Letters in Greek epigraphic landscape" /><published>2024-04-01T00:00:00+00:00</published><updated>2024-04-01T00:00:00+00:00</updated><id>https://wangbanban17.github.io//blog/2024/delphic-chronology</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2024/delphic_chronology/"><![CDATA[<h1 id="introduction">Introduction</h1>
+
+<p>The chronology of Delphi in the Hellenistic Period is a notorious chaos.</p>
+
+<h2 id="months-in-delphi">Months in Delphi</h2>
+
+<p>The names and order of months at Delphi are relatively clear: it is a normal lunisolar year, beginning on the first new moon after the summer solstice (22 or 23 June).</p>
+
+<p>| Order | Month Name | Tian-gan | Gregorian months (mostly) |
+| – | – | – | – |
+| 1 | Apellaios | 午 | July |
+| 2 | Boucatios | 未 | August |
+<!--- month of Pythia --->
+| 3 | Boathoos | 申 | September |
+| 4 | Heraios | 酉 | October |</p>
+
+<h1 id="criteria-on-materiality">Criteria on materiality</h1>
+
+<p>One of the best parallel examples on the dating methodology is also at Delphi: the polygonal wall (<em>SD</em> 329).</p>
+
+<h2 id="are-earlier-texts-always-above-latter-ones">Are earlier texts always above latter ones?</h2>
+
+<h3 id="on-the-date-of-l68">On the date of L68</h3>
+
+<ul>
+  <li><em>CID</em> 4.117</li>
+  <li><em>IG</em> II^2^. 1134</li>
+</ul>
+
+<h2 id="table-of-archons-in-group-l">Table of archons in Group L</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Priesthood</th>
+      <th><em>ChD</em></th>
+      <th>Name of the Archon</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>X</td>
+      <td>L68</td>
+      <td>Εὐκλείδας Καλλείδα</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>L75</td>
+      <td>Ἄγων Ἀριστίωνος</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>L76</td>
+      <td>Πυρρίας Ἀρχελάου</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>X</td>
+      <td>L77</td>
+      <td>Τιμοκράτης (Εὐκράτεος?)</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Wang Banban</name></author><summary type="html"><![CDATA[a planned appendix of my dissertation]]></summary></entry><entry><title type="html">Checklist of critical editions for classical works</title><link href="https://wangbanban17.github.io//blog/2024/checklist_classics/" rel="alternate" type="text/html" title="Checklist of critical editions for classical works" /><published>2024-01-30T00:00:00+00:00</published><updated>2024-01-30T00:00:00+00:00</updated><id>https://wangbanban17.github.io//blog/2024/checklist-classical-editions</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2024/checklist_classics/"><![CDATA[<h1 id="notice">Notice</h1>
+
+<p>This is a work-in-progress checklist of available editions for certain classical works.
+It is primarily for my personal use so there is a larger focus on sources I’m interested in, but feel free to use it and to help me add it in better form.
+For books in several volumes, I give data in volume.</p>
+
+<p>I understand the concept of editions in two ways, both in terms of philologically critical editions and in appropriate translated versions into modern languages.
+I follow the abbreviations in <em>Der neue Pauly</em>.</p>
+
+<h1 id="a">A</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>author</th>
+      <th>work</th>
+      <th>language</th>
+      <th>editor/translator</th>
+      <th>location</th>
+      <th>date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Appianos</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Arist.(pseudo)</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Ath.pol.</td>
+      <td>GR-DE</td>
+      <td>Chambers, Mortimer</td>
+      <td>Berlin</td>
+      <td>1990</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Ath.pol.</td>
+      <td>GR-EN</td>
+      <td>Rhodes, P.J.</td>
+      <td>Liverpool</td>
+      <td>2017</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Wang Banban</name></author><summary type="html"><![CDATA[a work-in-progress plan]]></summary></entry><entry><title type="html">My epub readers</title><link href="https://wangbanban17.github.io//blog/2023/epubreaders/" rel="alternate" type="text/html" title="My epub readers" /><published>2023-09-23T21:01:00+00:00</published><updated>2023-09-23T21:01:00+00:00</updated><id>https://wangbanban17.github.io//blog/2023/epubreaders</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2023/epubreaders/"><![CDATA[<p>I try to reduce paper use and claim to be a no-paper person.</p>
+
+<p>This is a claim I make every time I have the privilege to express myself.
+Of course, this doesn’t mean I don’t use toilet paper or send mandatory mails with paper.
+But as for working, I prefer scanning existing paper and sending digital files to writing paper notes.
+As for reading, I rely heavily on e-Books, in PDF and in ePub.
+Materiality? You know, e-Books can have much materiality as well.</p>
+
+<p>I have used many reader Apps, both on my iPad and on my phone (Pixel and iPhone).
+As everyone has their workflow and style, it may fit you or not…</p>
+
+<h1 id="apple-books-mac-ios-ipados">Apple Books (Mac, iOS, iPadOS)</h1>
+
+<p>Apple Books has been one of the default choices for ePub reading as it’s designed for it.
+As with many Apple apps, the Books is minimalist, enclosed in the Apple biosystem, and has a nice taste of typography.
+On iPadOS, the scrolling mode is my favourite: I think the materiality of eBook is that we don’t need to be limited in the page size and</p>]]></content><author><name></name></author><category term="life" /><category term="life" /><summary type="html"><![CDATA[on iOS and on Android]]></summary></entry><entry><title type="html">About my name</title><link href="https://wangbanban17.github.io//blog/2023/Name/" rel="alternate" type="text/html" title="About my name" /><published>2023-06-06T21:01:00+00:00</published><updated>2023-06-06T21:01:00+00:00</updated><id>https://wangbanban17.github.io//blog/2023/Name</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2023/Name/"><![CDATA[<h1 id="tldr">TL;DR</h1>
 
 <ul>
   <li>my name is Wang Banban. It’s written as 王班班 in its original script.
@@ -49,7 +186,422 @@ In this way, Banban actually cut up the two Wang’s, not that anyone would know
 A reduplicative name (or “ABB”) is usually taken as <a href="https://languagelog.ldc.upenn.edu/nll/?p=23204">diminuitive or feminine</a>, so questions like “what’s your real name?” or “are you a girl or a boy?” came frequently in my childhood. And who could have known that many <a href="https://chinadigitaltimes.net/chinese/388974.html">Communist princelings</a> are given reduplicative names, including Bo Guagua, Li Tete?
 It causes me problems in Chinese-speaking area and I really thought of changing my name.
 Wang Banban is easy in writing and especially in cursive.
-Many then read my cursive signature as “2 212 212”, very easy :)</p>]]></content><author><name></name></author><category term="life" /><category term="life" /><summary type="html"><![CDATA[and its story]]></summary></entry><entry><title type="html">《史達林與歐洲的命運》：一篇書評</title><link href="https://wangbanban17.github.io//blog/2023/naimark/" rel="alternate" type="text/html" title="《史達林與歐洲的命運》：一篇書評" /><published>2023-02-08T17:26:00+00:00</published><updated>2023-02-08T17:26:00+00:00</updated><id>https://wangbanban17.github.io//blog/2023/naimark</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2023/naimark/"><![CDATA[<h1 id="book-review">Book review</h1>
+Many then read my cursive signature as “2 212 212”, very easy :)</p>]]></content><author><name></name></author><category term="life" /><category term="life" /><summary type="html"><![CDATA[and its story]]></summary></entry><entry><title type="html">Letters in Greek epigraphic landscape</title><link href="https://wangbanban17.github.io//blog/2023/gent/" rel="alternate" type="text/html" title="Letters in Greek epigraphic landscape" /><published>2023-06-01T00:00:00+00:00</published><updated>2023-06-01T00:00:00+00:00</updated><id>https://wangbanban17.github.io//blog/2023/Gent</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2023/gent/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<p>Goedemorgen !
+It’s my great pleasure to come back to Gent and also to participate in this great workshop, meet some old friends and talk about late antiquity.
+I thank <a href="https://research.flw.ugent.be/en/lieve.vanhoof">Lieve</a>, <a href="https://research.flw.ugent.be/en/marijke.kooijman">Marijke</a> and <a href="https://research.flw.ugent.be/en/matthijs.zoeter">Matthijs</a> for the organisation and it’s so nice to meet you all, especially after the tough COVID time which we all went through.
+My talk today is a preliminary attempt to bring some methods from earlier periods and different areas to late antique epigraphy, especially Greek epigraphy.
+At the same time, I hope to see what a <em>longue durée</em> perspective on late-antique public documents can help us understand civic mechanism in Greek cities, especially larger cities in developing a landscape of inscriptions.
+My talk will be in three parts: first, a brief overview of the concept »Epigraphic landscape«; second, a thematic analysis on letters as a genre in epigraphic landscape; last part is about the exemplary case Ephesos.</p>
+
+<h2 id="epigraphic-landscape">Epigraphic Landscape</h2>
+
+<p>Many Hellenistic and Roman cities in the Hellenophone were covered with a textile full of inscriptions.
+While epigraphic practice declined to a certain extent starting from the third century onwards, the presence of inscriptions (old and new) are still everywhere in late antique cities, even though new public texts were mostly found in large metropoleis.
+It is against this background that epigraphers in the last decades talked more, in an archaeological glance, on the concept of <em>epigraphic landscape</em>.<d-footnote>On this topic, a good glance on the research stand is Ruiz (2013) on Roman epigraphy.rch project [Epigraphic Landscape of Athens](http://epigraphiclandscape.unito.it/index.php).<d-cite key="lasagniTropea2019Paesaggio"></d-cite></d-footnote></p>
+
+<p>Studies on the epigraphic landscape focus much on cities with a rich monumental and epigraphic presence: Athens, many well-excavated cities in the Latinophone west, Rome, and my dissertation on Hellenistic Delphi.
+Although archaeological evidence is less well preserved than earlier times, partly because of the frequent reuse of monumental and architectural blocks, in cities like Ephesos and Corinth ans cities in n africa it is still possible to read stones in landscape.
+Such studies take a diachronic view of inscribing practice and examine how viewers in their own times could view, understand, and interact with inscribed artefacts (walls, steles, etc.) within its environments.
+And reuse or continuity of inscribing play clearly a role in this diachronic development of epigraphic practice.</p>
+
+<p>It is important to ask the question how viewers saw inscribed documents, both those inscribed in their time and in earlier times, as part of the city landscape.
+Also, we may wonder, when a new text was inscribed somewhere in a city, how did the landscape change or if it changed.
+To answer this question, we need to identify both the nature of the inscription-bearers (<em>Schriftträger</em>) and the view in a given time, in our case, late antiquity, in order to give proper interpretations.
+It is also crucial to understand inscriptions in types, and see how different types of texts were displayed and engaged with: my studies on manumission acts and honorific landscape in Hellenistic Delphi as an example, and today I’m talking about administrative letters.</p>
+
+<hr />
+
+<h2 id="administrative-letters-as-a-type">Administrative letters as a type</h2>
+
+<p>Speaking of administrative letters, I guess we have already been challenged or been inspired by Corcocan and Grünbart on their definitions and scales.
+In the Hellenistic periods it has been a long tradition to study ‘Royal Correspondences’, and these letters were commonly found with nice archaeological landscape records, enabling us to further explore the visual context of them.<d-footnote>The basis is Welles' important collection <i>Royal Correspondence</i>, but also later researches, including Bencivenni 2011. See also the idea of 'statuescape' from Ma 2011.</d-footnote>
+During the Principate, especially in provincial metropoleis, imperial decrees granting privileges and honours are frequently found in the agora, in the gymnasium, and sometimes also in sanctuaries that are related to the imperial cult, as a symbol of oligarchisation of cities, already having started in the late Hellenistic period.
+Starting from the emergence of Hellenistic epigraphic culture in the third century BC till its decline in the third century CE, administrative letters enjoyed a special privilege in the epigraphic landscape of Greek cities, especially large cities.<d-footnote>To this, the best regional study is still Rizakis on the Hellenistic and Roman Peloponnese.</d-footnote></p>
+
+<p>A continuity of this practice cannot be verified for the period we are concerning today, Late Antiquity, as most of the sources we have are in ‘fragmentary nature’ or we are ‘lack of knowledge about their original location’ (in Corcoran’s words).<d-footnote>Corcoran 2018, 5.</d-footnote>
+Does this mean we cannot say anything about the landscape of late-antique letters? My answer is partly we still can.
+This is because we understand late antique epigraphy not as an independent period but with a comparative eye from its earlier time.</p>
+
+<p>There are some basic info we still need to get us on the same page.
+While in the Hellenistic Royal Correspondences collections, Greece mainland and Asia Minor divide a share of 4/6, in late antiquity the percentage is very unbalanced.
+In the 132 entries we collect in the East from Diocletian to Markianos,<d-footnote>so the sources are mainly Feissel 2009, minus the latinophone west but plus those multi-copied entries and the Diocletian decrees. I'll put this on my website after the talk.</d-footnote> findspots came to a number of 61, namely on average one city has roughly more than two texts.
+In fact, only nine cities have more than one text, because 29 entries are from Ephesos.<br />
+The largely unproportional geodistribution of sources resulted in the lack of epigraphic dossiers in multiple cities:
+apart from the reinscribed dossier in Aphrodisias and the letters in Mylasa, most dossiers in the late-antique cities are chained texts rather than individual texts inscribed on an artefact, be it stele or temple wall. \</p>
+
+<p>This leads to the big question on all kinds of administrative inscriptions: are inscribed letters to be read in their times or later times?
+WHile administrative letters have practical roles, the practice of inscribing them brought them into the field of rulership or »Herrschaftsschrifttum«.
+This was already much of the case in the Hellenistic times and more in the Principate, but it came to a peak in late-antique inscribed artefacts.
+We don’t find any ‘publication clause’ as did in earlier letter inscriptions, some of the edicts that ruled how to display texts are about who paid for inscribing.
+In this sense, inscribing by itself ceased to become a self-evident element for administrative letters, and epigraphic presence of an administrative letter which could have just been left in the city archive shows more univocal and unidirectional power, even if the letter(s) consist(s) of a corresponding sequence of letters.</p>
+
+<p>Denis Feissel and Simon Corcoran have discussed much on the publication process and rendered the authority to make decision of publication to the high power, while the petitioners are responsible for their display.<d-footnote>Feissel 34–5, Corcoran 2018, 9 pointing to *AE* 1997, 1443.</d-footnote>
+This explains partly why we find clauses similar to earlier ‘publication clauses’ not on stone, but in <em>Novelle</em> 8 and other literary sources. <d-footnote>The only exception we have in epigraphic sources is not *per se* an integral instruction of publication, but the rule about who should fund the inscription.</d-footnote>
+I am fully with Feissel and Corcoran here.
+What I want to add is that the local society better knows how to engage the audience if the texts are designed to have an audience: the location, the language and the script are all about this.
+Just as German texts in modern Hellenic kingdom brought the sense of power, better or worse, the Latin letters and the script contain the sense of authority and authenticity in various levels and cannot be discussed here.
+About the landscape, a topographic knowledge correspond to the local epigraphic habit: as in today, protestors in Heidelberg know where to put posters will get the largest expected readership.</p>
+
+<p>In Mylasa, long after the decline of the imperial cult, the area of the temple of Augustus and Roma was still active thanks to the very recent archaeological evidence.
+The long podium wall of the imperial temple enables the local authority to fulfill the request by the praetorian prefect (<em>I.Mylasa</em> 613) to inscribe the letters of Theodosius II and his <em>comes sacrarum largitionum</em> in 427 CE in every Carian city.
+It was already since Hekatomid dynasty, so earlier than third century BCE that Carians have the tradition to inscribe administrative documents on the wall of temples. And this is a local practice as people in the hellenophone world don’t do that everywhere, especially in Greece mainland.
+Here, the inscription was written in one column that takes 4,5 metres long on the wall, something Hellenistic and Roman practice don’t really see.
+A visitor will easily see the large dedicatory text on the architrave of the temple for Augustus and Roma goddess in Greek, but when walking alongside the temple back and forth, he will have to take care of the crazily long imperial rescript if he wants to read them, a bit lower than his eye level</p>
+
+<p>Similarly, Aphrodisias’ so-called ‘Archival wall’ was also understood in a way that not only local citizens but visitors to the performance will have to go past.
+A current visitor with nice camera will be easily able to take perfect photos with readable texts, as the later Christian readers took pains to find all the words for Aphrodite and sometimes, Augustus and erase them during the turmoil between Christians and pagans.</p>
+
+<p>(An astonishing parallel was found on the other end of the Eurasia when a Chinese imperial rescript in 711 CE certifying the privilege of a Taoist temple ruled that a bronze bell be casted and the inscription was put in the bell with unreadable scripts made by the emperor.
+By ringing the bell as part of the ritual, the priests are literally hitting on the imperial rescript while reassuring the power of this inscribed artefact. And its presence on the bell itself brought the Herrschaft.)</p>
+
+<hr />
+
+<p>Speaking of inscribed artefacts having power, it is also interesting to notice how people living in the fourth to the sixth century coped with letters already there before them.
+Reinterpretation of old inscribed administrative documents influenced the reusing process of temples and constructions in the late-antique period.
+Many of the small cities in the late antique period did not have further expansion and those old letters are thus simply ignored. We therefore luckily have many Hellenistic and early Roman letters in Thessaly, in Cilicia, and in Priene where late-antique buildings didn’t use old materials.
+Sometimes the stones were still taken elsewhere for reuse, but this is merely about its material value of being stone.
+There seems to have been a certain valid period when a certain imperial inscription can be taken up for reuse, but this needs further studies if it’s possible at all. 
+On the right we have IK Eph. 41, a letter of Constance II to proconsul of Asia in around 351, which was found in the pavement of Embolos persumably either after the restoration of the city mentioned in the Eutropius letter by Valens in 371, or the large restoration of the city in the fifth century according to material evidence.
+In Thessaloniki, both the imperial rescript for Saint Demetrios and the prefect’s order were integrated into the north wall of the church, at least one hundred years later than they were inscribed. 
+We have mentioned the practice of erasure, not only as part of damnatio memoriae, but also the continuous inscribing, as the inscription with Julian’s name erased in Aphrodisias will later receive the name of Valens on top of the erasure space!
+There are cases where old letters were preserved in late antiquity, though apart from the practice in Ankyra namely the <em>res gestae</em> of Augustus, I can’t see if I can come up with a good argumentation flow to identify a case for preservation.
+And also, as were the case in late Hellenistic times, cities also re-inscribe texts that they received logn time ago in a new circumstance for new reason: Aphrodisias’ archival wall was a comparable case to Attalos’ dossier in Panormos, both a century later than the original the text dossier was inscribed in a meaningful layout for a new reason. 
+What I think it needs further thinking is to take the perspective of reading and do an archaeology for it.
+Whether our sources are enough is another question.</p>
+
+<p>Not only were the texts read but more importantly, monuments were read as well by new people.
+and we are able to infer how they read monuments through how they put new texts on old monuments.
+This practice, which I call »Weiterbeschriftung« and perhaps »continue-inscribing« (in english? please make new suggestions!) is a crucial part both for my talk today and my dissertation in the Hellenistic Delphi.
+It uses the affordable space of an already existing monument, inscribed or uninscribed alike.
+In the dossier of scribo in Hadrianopolis in Honoriade, the new, sixth century scribe John has his very plainly administrative letters warning the bandit local elites onto an honorific statue for Commodus, which stood on a wide road in the archaeological context.
+We have already seen the Orcistos example in Simon Corcoran’s talk, where the front side of the pillar base was the beginning of the text and then the right, the left at the end.
+Here in Hadrianopolis, you have to walk around the base line by line as it was inscribed continuously from the right face to the left face, thinking about Mylasa! And to this I need help from papyrologists :)
+Another intriguing though uncommon practice is found in Sardeis, where a late antique governor’s edict was inscribed directly on a non-erased letter preamble from Septimius Severus.
+As far as I know only one case in early third century Delphi, the Siphnian Treasury where an administrative letter from the civic authority was inscribed palimpsestically on an earlier honorific decree, but please inform me if you know more cases.
+Here, the IMP CAES was left out and not covered, and Harriet Flower’s argument that the imperial titulars carry the authority may stand here. 
+In Justinianopolis namely Didyma, we encounter a case where an uninscribed block was taken as inscription-bearer for the famous dossier recording the transmission of message. The block from the second century CE was originally a wide orthostate, but when in the sixth century the stonecutter took a 90° rotation and use its width as height for embedding the long dossier (Feissel, <em>Chiron</em> 2004). 
+This practice we call Weiterbeschriftung but not continuous-inscribing though.
+And the last example on this slide, this Athenian stele recording the Caesariani dossier, was on a typical Athenian material for important administrative documents in the very early times, but here the surface was not polished first, and thus out of the epigraphic landscape in Athenian administrative documents. It is possible, I guess, that the stone itself was also reused from somewhere else as Athenians ceased to inscribe documents on such kind of stele shapes in the middle of the Principate, (but I have to verify this when I travel to Athens this November…)</p>
+
+<hr />
+
+<p>A Zwischenfazit:
+the artefacts bearing inscribed administrative letters in late antiquity were standing between the practicality of their material and the power or authority granted to them.
+The reading and, depending on reading, the reusage of these artefacts were also standing between a pure (practical) materialism and a strong (intentional or even ideological) capture as <em>spolia</em>.
+While we don’t always have the ideal <em>Standort</em> <em>Fundort</em> patterns for these late-antique letter inscriptions, to study how they were read makes us to better understand both how imperial power was perceived and how ‘unsacred’ their artefacts were.</p>
+
+<p>(You may have noticed that I avoid talking about Ephesos much till now, as it’s the third part because it has richest sources both in the practice of reuse and in the practice of inscribing thanks to the archaeological documentations. And this is certainly a continuation of Feissel’s 1999 article but focussing more on the practice of later usage.
+Whether Ephesos shall be an exception, or we can learn from Ephesos some larger mechanisms, will be a question for us all. )
+Now, let the fragments talk in Ephesos.</p>
+
+<h2 id="ephesos-cumulative-texts-in-a-changing-landscape">Ephesos. cumulative texts in a changing landscape</h2>
+
+<p>Thanks both to its metropolitan status in <em>Provincia Asiae</em> and to the long and detailed excavations, Ephesos was an unescapable case on any serious discussion about public epigraphy in the late antique East, just like Delphi in the Hellenistic times.</p>
+
+<p>Inscribed administrative letters in Ephesos are found in many places in the city, already in the Hellenistic Period; and they were reused in different earlier times: one letter from Attalos II king of Pergamon who appointed a teacher from Ephesos for his son, later Attalos III, was inscribed on a wide block which serves perfectly as a pillar base or top.
+The block was then reused in a pillar from the inner hall of the Agora.
+Statues with Ptolemais, Attalos, and Antiochos of Commagene were taken, normally from the Agora, to the Domitian temple, to the harbour, and to private houses in the second century (the date according to archaeologists focussing on Embolos).
+And the practice of reuse, especially in High Empire and sometimes in Late Antiquity, was attested for around half of the Hellenistic inscriptions in Ephesos (not many though) and almost every case not in the Artemision.
+A Roman <em>Senatus consultum</em> was found in Artemision, and may have escaped from reuse as it was far from the city.</p>
+
+<p>In the high empire, emperors and governors continue to write letters and they make much on steles and sometimes also on slabs for buildings, mostly on the Embolos and in the Theatre.
+And reuse or de-re-localisation appear in short and long terms: fragments for IEph 19b was found at the Magnesian Gate but the bulk of the text in the theatre, as an example.
+The Caesariani dossier copy in Ephesos have four fragments, two from the west and south pillars of the Agora, one in the Hanghaus II where we also find a statue for Ptolemais II and Arsinoe, and the last from the theatre.
+The practice that reusing letter blocks in fragmentary nature was done clearly in late-antique times, together with other kinds of inscriptions told us a sad story that, for those later building projects, inscribed imperial letters were not that important, though those letters themselves, we don’t know.</p>
+
+<p>One of the best preserved cases with its landscape was found at the Octagon, a monument built in the Early Empire with possible Hellenistic basis and material (a new study said in the Augustan Period based on stratigraphy, I’m not 100% following but okay, definitely Early Empire but not Hadrianic, as earlier scholars argue).
+In front of the Octagon which was designed for a underground grave, there were high slabs or socles to cover the entrance of the grave house: by cover I mean the passage between the slabs and the entrance was thin.
+And it’s clear those slabs only became inscription-bearers in late antiquity when two rescripts from Valens, in different periods for two different proconsuls, were inscribed <em>together</em> on six socles here, in column!
+The first, in 371 to Eutropius on the civic revenues, was purely in Latin, and the second to Festus a later proconsul but in five years about the contests in the provincia Asiae, was in Latin original and a local Greek translation. Two texts were written in very similar hands (and I beg you to believe me or to believe in André Chastagnol).
+While both rescripts are famous to many of you, it strikes me why, while they were inscribed together and perhaps from the same commission, only one has a Greek translation and the other in Latin?
+A possible interpretation, and I don’t agree with Chastagnol here, is that the local Greek trans. was for visitors, especially those elites from other cities in <em>provincia</em> to alarm them, don’t run your own contest but stay in the provincial games.
+It may be due to this that they found the slabs in front of the Octagon, very prominent in location and not inscribed.
+So we meet the phenomenon of Weiterbeschriftung, the language problem, and the local landscape of inscriptions and then I ask the question who was in charge of this writing? I would give more weight to the Ephesian community than to Festus here.</p>
+
+<p>The last slide is about church documents.
+We know there are two main churches in Ephesos in the sixth century: one is St. John, for which Justinian wrote a honorific letter that was found on the Agora door! Also about St. John Justinian showed his preference over Smyrna’s Polycarp in a letter <em>IK</em> I 45, but the text was reused in a pavement of the Domitian Piaza. 
+This may have to do with the fact that St. John was beyond the city area and display of this honour was for the city rather than for the church itself. 
+The other is famous for holding the two Ephesian council and the Austrians sometimes call it Konzilskirche but it’s the city’s cathedral St. Mary.
+We find from here six letters in Feissel’s catalogue, all about ecclesiastical affairs, and perhaps from a single dossier owned by bishop Hypatios. We have here a Justinian’s fragmentary rescript, another letter which we wait for Feissel’s edition, an arbitrary letter between St. Mary and St. John, and very interestingly, a pastoral letter by himself to the city of Ephesos.
+These texts were found everywhere in St. Mary as a living church for long time, but must have been in a certain place before they were reused in tombs within the church or in the narthex, or in the baptistery, or in the front courtyard. 
+This further blurrs the division of epigraphic practice between ‘ecclesiastical’ and ‘secular’ documents, as this dossier, from the promulgation to the collection and the reuse, are just so common as we see in other areas in Ephesos.
+It does occupies a special landscape in the city, but occupies in a way as other Ephesian texts did!</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/ephesos_plan-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/ephesos_plan-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/ephesos_plan-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/ephesos_plan.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Plan of Ephesos in the third century, from Yegül and Favro (2019), Fig. 10.24<d-cite key="yegulfavro2019Urbanism" />
+</div>
+
+<hr />
+
+<h2 id="concluding-remarks">Concluding Remarks</h2>
+
+<p>So yes, and I think it’s still an ongoing process before I finalise a written version of this paper. And if you find something interesting in my talk, I’ll be very glad.</p>
+
+<p>Thank you for your attention, and I’m looking forward to your questions, vos remarques, und Ihre Anmerkungen.</p>
+
+<hr />
+
+<h2 id="appendix">Appendix</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>lemma</th>
+      <th>location</th>
+      <th>material description</th>
+      <th>location</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://ppret-inscriptions.huma-num.fr/fr/inscriptions/ppret23.html"><em>PPRET</em> 23</a></td>
+      <td>Delphi</td>
+      <td>double-sided slab</td>
+      <td>unknown</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="http://dx.doi.org/10.1163/1874-6772_seg_a32_849"><em>SEG</em> 32.849</a></td>
+      <td>Chalkis</td>
+      <td>slab</td>
+      <td>unknown</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="http://dx.doi.org/10.1163/1874-6772_seg_a11_464"><em>SEG</em> 11.464</a></td>
+      <td>Sparta</td>
+      <td>column</td>
+      <td> </td>
+      <td>reused from IIp building</td>
+    </tr>
+    <tr>
+      <td><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD056387"><em>CIL</em> 03, 00568</a></td>
+      <td>Amphissa</td>
+      <td>tafel</td>
+      <td>reused in church Metamorphoses Soter, from Gymnasium</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href=""><em>IG</em> 04, 00364</a></td>
+      <td>Corinth</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://cefael.efa.gr/detail.php?site_id=1&amp;actionID=page&amp;serie_id=BCHSuppl&amp;volume_number=8&amp;ce=ljt4gv6eqo0ht7avit3h4ffijep6td1t&amp;sp=91">Feissel <em>Recueil</em> 81</a></td>
+      <td>Thessaloniki</td>
+      <td>church block</td>
+      <td>church (later reused within church)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://cefael.efa.gr/detail.php?site_id=1&amp;actionID=page&amp;serie_id=BCHSuppl&amp;volume_number=8&amp;ce=ljt4gv6eqo0ht7avit3h4ffijep6td1t&amp;sp=94">Feissel <em>Recueil</em> 85</a></td>
+      <td>Thessaloniki</td>
+      <td>marble block</td>
+      <td>reused in city wall</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href=""><em>BCH</em> 91, 588 n35</a></td>
+      <td>Thasos</td>
+      <td>fragment</td>
+      <td>unknown</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href=""><em>BCH</em> 108, 158 n8</a></td>
+      <td>Abydos</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>IK Eph.</em> 1.38+4.1371</td>
+      <td>Ephesos</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="http://ppret-inscriptions.huma-num.fr/fr/inscriptions/ppret28.html"><em>IK Eph.</em> 1.41</a></td>
+      <td>Ephesos</td>
+      <td>panel stele</td>
+      <td>reused in the pavement (on Embolos)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>IK Eph.</em> 1.42-43</td>
+      <td>Ephesos</td>
+      <td>orthostate of a building</td>
+      <td>octagon (reuse from Ip building)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>IK Eph.</em> 1.44</td>
+      <td>Ephesos</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>IK Eph.</em> 2.224</td>
+      <td>Ephesos</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><em>IK Eph.</em> 4.1329+41</td>
+      <td>Ephesos</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td><em>IK Eph.</em> 4.1345</td>
+      <td>Ephesos</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href=""><em>AE</em> 2020, 1215</a></td>
+      <td>Ephesos</td>
+      <td>base of statue in marble</td>
+      <td>Church of Sainte-Marie</td>
+    </tr>
+    <tr>
+      <td><a href=""><em>I.Mylasa</em> 611–2</a></td>
+      <td>Mylasa</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href=""><em>I.Mylasa</em> 613</a></td>
+      <td>Mylasa</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD047957 (Last Updates: 2011-03-17, Gräf)"><em>AE</em> 2000, 01370a</a></td>
+      <td>Amorgos</td>
+      <td>stele</td>
+      <td>city gate</td>
+    </tr>
+    <tr>
+      <td><a href="https://edh.ub.uni-heidelberg.de/edh/inschrift/HD047958 (Last Updates: 2011-03-17, Gräf)"><em>AE</em> 2000, 01370b</a></td>
+      <td>Amorgos</td>
+      <td>stele</td>
+      <td>city gate</td>
+    </tr>
+    <tr>
+      <td><a href="http://telota.bbaw.de/ig/digitale-edition/inschrift/IG%20XII%204,%201,%20273"><em>IG</em> XII 4,1,273</a></td>
+      <td>Kos</td>
+      <td>plate</td>
+      <td>unknown</td>
+    </tr>
+    <tr>
+      <td><a href="https://publications.dainst.org/journals/chiron/article/view/816"><em>Chiron</em> 34, 2004</a></td>
+      <td>Didyma</td>
+      <td>stele</td>
+      <td>reused in the pavement (sacred way) but itself reused first</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="caption">
+    A list of inscribed official correspondences in late-antique Hellenophone cities, partly thanks to Feissel 2009.
+</div>
+
+<hr />
+
+<p>Appendix: Materiality and Landscape of selected imperial letters in Late Antiquity</p>
+<ol>
+  <li>Delphi, 341–346 (unedited). Found on two fragments of slab(s) in marble, originally in the city archive.</li>
+  <li>Chalkis, 359 (SEG 32-849). Found on a thick block in marble, reused in a wall nearby the central agora, originally in the central section of the city.</li>
+  <li>Sparta, 359 (SEG 11-464). Fragment in the theatre; reused from a building in the second century.</li>
+  <li>Amphissa, fourth century (IG IX2 751). reused in church Metamorphoses Soter, originally from Gymnasium.</li>
+  <li>Corinth, second half of the fourth century (IG IV2 3, 1814). a marble base, found into a modern structure in Korakou area.
+[5bis. Corinth, 401/2 (IG IV2 3, 1242). White marble fragment probably reworked for this inscription, found in the Amphitheatre.]</li>
+  <li>Gortyna, fifth century (I.Cret. IV 507). Marble fragment, found near the Hagios Deka.</li>
+  <li>Thessaloniki, 533–565 (IG X 2, 1, 23). Marble stele, found by the oikonomos at St. Demetrius church, reused in the north wall.</li>
+  <li>Thessaloniki, fifth or sixth century (IG X 2, 1, 22). Marble stele with tabula ansata. Found reused in the eastern rampart of the city, original spot unknown.
+[9bis. Thessaloniki, 688 (IG X 2, 1, 24). Marble stele, found on the floor of St. Demetrius, perhaps paved in later times.]</li>
+  <li>Thasos, fifth century (BCH 91, 1967, n.35). Fragment of a marble stele found reused in a modern wall between the ancient agora and the port, original spot unknown.</li>
+  <li>Amorgos, 362 (AE 2000, 1370). Two marble steles found at the port of Minoa on Amorgos, in Latin.</li>
+  <li>Kos, fourth century (IG XII 4, 272). Fragment of a marble slab found reused in the area near casa Romana, perhaps in the fifth or sixth century. Original spot unknown.</li>
+  <li>Kos, 371 (IG XII 4, 273), two fragments of a marble slab found near the church Hepta Vimata, in the cemetery Hagios Ioannis to the south of the city of Kos.</li>
+  <li>Abydos, 550–51 (BCH 108, 1984, 581–98), a wide marble stele found on the site of ancient Abydos. The end of the text as well as the notitia was preserved.
+45bis. Annaia, 386/450 (EA 53, 2020, 173–77). A stone slab bearing an erased text in tabula ansata, later reused in a Byzantine church.</li>
+  <li>Mylasa, 427/9 (I.Mylasa 611–12). Inscribed on the podium of the temple of Augustus and Roma, one below the other.</li>
+  <li>Mylasa, 480 (I.Mylasa 613). Weiterbeschriftung following 46, with long lines along the podium wall at eye level.</li>
+  <li>Kırkpınar (Lagbe), 1 June 527 (CIL III 13640), about the Church of St. John (near Kibyra), around 87 kilometres to the east of the church. A squared block on a round base, Latin texts inscribed on three faces, on the fourth face is a Greek translation. Found in a space with no clear context.</li>
+  <li>Didyma/Justinianoupolis, 527–533 (I.Didyma 596). A heading gable of an edict of Justinian, inscribed in the pediment-shaped triangle of the gable, below a cross; decoration with peacoats and guineafowl (?). Found to the right under the Byzantine stairs in the pronaos of the converted temple of Apollo.</li>
+  <li>Didyma/Justinianoupolis, 533 (SEG 54-1178). Tall and thick white marble perpend found reused in an apsidal masonry by the SE sector of the Sacred Way.</li>
+  <li>Miletos, 539–542 (Milet VI 3, 1576). Three fragments, two found near the “Lions’ Bay”, main port of Miletos.</li>
+  <li>Aphrodisias, late sixth/early seventh century (I.Aphrodisias 15.363). Inscribed on an existing monument “along the way” in Aphrodisias, stone lost.</li>
+  <li>Sardis, after 539 (I.Sardis I, 19). Marble slab found in the south face of the bastion of the acropolis wall.</li>
+  <li>Sardis, around 535 (I.Sardis I, 20). Marble slab found in a field expanded in Roman period. Inscribed over a partly eradicated dedication to Septimius Severus (I.Sardis I, 71), and to the left side, a contract with the association of building labourers (SEG 52-1177, 459 CE).</li>
+  <li>Orkistos, 324–6 and 331 (AE 1999, 1577). Marble pillar. The letters inscribed in 324–6 occupied the space on the front moulding, the shaft, the bottom moulding and continued the engraving on the left and right faces. Another letter in 331 occupied the still available space on the right face.</li>
+  <li>Antioch of Pisidia, fourth century (I. Antioche Pisidie Ramsay 203). No clear description on material from the records.</li>
+  <li>Ikonion, fifth century (TAM Ergänz. 11, Beiträge zu den griechischen Inschriften Lykaoniens, n.49). Fragment of a thick marble block, (modern time?) reused in a house.
+59bis. Limyra, between 384–7 and c. 450 (SEG 65-1470). Found on a monumental equestrian statue base with four orthostates (one lost) on the southwestern corner of the southern portico along the “Säulenstraße”. On the south face engraved an honorific text for Flavius Theodosius on an erased text; on the west face inscribed the edict.</li>
+  <li>Perge, 344–351 (unedited). S. Şahin noted that the slab bearing an honorific text for Flavius Philippus was located upon two inner pillars of the Hadrian Gate, on which the unedited letter was inscribed.</li>
+  <li>Perge, 491–518 (SEG 65-1408). Three thin marble slabs, perhaps originally employed in parapets and reused as inscription-bearers. Most of the fragments found by the northern junction of the colonnaded street and the street extending between the east and west city gates.</li>
+  <li>Kasai, 478 (SEG 66-1716), “la grande inscription”, on the exterior wall of an apse of the “inscribed church”, both on the flat and on the curved walls.</li>
+  <li>Hadrianoupolis, sixth century (SEG 35-1360). Marble base with mouldings above and below originally for a statue of Commodus; the three remaining faces bore a letter from the imperial scribe, with each line inscribed along the three faces.</li>
+  <li>Amastris, 527–533 (SEG 46-1620). Two fragments of reddish stone found on a hill near the village, findspot not important.</li>
+  <li>Germia, 532? (SEG 36-1180). Two fragments of a white marble tablet, with difference in letter size, reused as a cover of a tomb.</li>
+  <li>Korykos, 507–510 (MAMA III 197). Inscribed on two altars in marble, found reused as the doorpost of the East Gate of the city fortress.</li>
+  <li>Seleukeia Pieria, sixth century (SEG 35-1523). Four fragments of a marble slab, no original findspot.</li>
+  <li>Beroia, 565–578 (IGLS II 262). Three fragments of a pillar in basalt. No clear findspot.</li>
+  <li>Apameia, fifth century (IGLS IV 1385). Fragment of a marble stele, no clear findspot.</li>
+  <li>Maʾṣūb near El-Bassa, rural area of Tyre, sixth century (SEG 8-18). Fragment of a marble stele, with ornaments of five busts on top of the text for the oratory of Saint Zachariah. 
+78bis. Kafra/Naffakhiyé near Tyre, sixth century (I.Mus.Beyrouth 329). Eight fragments of a stele in limestone. A rescript of asylia for an oratory (?) like No.48? 
+78tris. Tyre (?), early Byzantine period (I.Mus.Beyrouth 311).</li>
+  <li>Emesa, fifth or sixth century (I.Mus.Beyrouth 398). Fragment of a marble stele, probably in the living area of Homs, no clear original spot.
+79bis. Hama (near Emesa), fourth century (or earlier?) (I.Mus.Beyrouth 385 = SEG 66-1898). Two fragments at the right end of a marble stele,</li>
+  <li>Palmyra, fifth century (?) (IGLS 17.1, 359). Fragment at the bottom of a marble stele. No certain findspot.</li>
+  <li>Jerusalem, 492 or 507 (CIIP I, 2, 784). Local limestone block, (perhaps in modern times) reused on the southern side of the Church of Holy Sepulchre. Originally around 8–9 metres long.</li>
+  <li>Jerusalem, 533–565 (CIIP I, 2, 785). Reused in the Cosmatesque pavement in Apse 16 of the Rotunda.</li>
+  <li>Jerusalem, Mauritius? (CIIP IV, 2, 3431). Limestone slab, perhaps found near Bethlehem, near an aqueduct.</li>
+  <li>Beersheba, 536 or shortly thereafter (SEG 54-1643), seven fragments of a large marble slab, having a clear layout for the tax paying record. No findspot located.</li>
+  <li>Qaṣr al-Ḥallābāt, 492 (Arce/). More than 160 fragments of basalt blocks found mostly in an Ghassanid complex, perhaps originally from the West Church or the perimeter wall of pretorium of Umm el-Jimal (Hauran, Classical Aur</li>
+</ol>]]></content><author><name>Wang Banban</name></author><summary type="html"><![CDATA[a talk draft for a workshop at Universiteit Gent]]></summary></entry><entry><title type="html">《史達林與歐洲的命運》：一篇書評</title><link href="https://wangbanban17.github.io//blog/2023/naimark/" rel="alternate" type="text/html" title="《史達林與歐洲的命運》：一篇書評" /><published>2023-02-08T17:26:00+00:00</published><updated>2023-02-08T17:26:00+00:00</updated><id>https://wangbanban17.github.io//blog/2023/naimark</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2023/naimark/"><![CDATA[<h1 id="book-review">Book review</h1>
 
 <p><img src="https://assets.matters.news/embed/de3fc62e-525a-4067-9afe-02068b989c43.jpeg" alt="" /></p>
 
@@ -113,7 +665,53 @@ Many then read my cursive signature as “2 212 212”, very easy :)</p>]]></con
 
 <hr />
 
-<p>我會向所有非冷戰史專業的朋友推薦本書。這本書至少在一點上非常成功：奈馬克成功讓讀者認清，那些事後看來再不可避免、趨勢再明顯不過的事件，其發生之前都可能有多種可能性，其演進的過程都非常複雜。當下的歷史學者，不敢說每個人都會努力擁抱和鍾愛這種複雜性，但至少都不會排斥之。</p>]]></content><author><name></name></author><category term="reading" /><category term="reading" /><summary type="html"><![CDATA[Book review]]></summary></entry><entry><title type="html">anchoring monumental landscape in Delphi</title><link href="https://wangbanban17.github.io//blog/2022/utrecht/" rel="alternate" type="text/html" title="anchoring monumental landscape in Delphi" /><published>2022-02-24T00:00:00+00:00</published><updated>2022-02-24T00:00:00+00:00</updated><id>https://wangbanban17.github.io//blog/2022/anchoring</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2022/utrecht/"><![CDATA[<h1 id="anchoring-the-monumental-landscape">Anchoring the Monumental Landscape</h1>
+<p>我會向所有非冷戰史專業的朋友推薦本書。這本書至少在一點上非常成功：奈馬克成功讓讀者認清，那些事後看來再不可避免、趨勢再明顯不過的事件，其發生之前都可能有多種可能性，其演進的過程都非常複雜。當下的歷史學者，不敢說每個人都會努力擁抱和鍾愛這種複雜性，但至少都不會排斥之。</p>]]></content><author><name></name></author><category term="reading" /><category term="reading" /><summary type="html"><![CDATA[Book review]]></summary></entry><entry><title type="html">米利都与赫拉克莱亚的「同公民权」合约</title><link href="https://wangbanban17.github.io//blog/2023/milet/" rel="alternate" type="text/html" title="米利都与赫拉克莱亚的「同公民权」合约" /><published>2023-02-07T00:00:00+00:00</published><updated>2023-02-07T00:00:00+00:00</updated><id>https://wangbanban17.github.io//blog/2023/Milet</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2023/milet/"><![CDATA[<h1 id="米利都与赫拉克莱亚的同公民权合约">米利都与赫拉克莱亚的「同公民权」合约</h1>
+
+<h2 id="导论">导论</h2>
+
+<h3 id="基本政治地理背景">基本政治地理背景</h3>
+
+<p>公元前 2 世纪上半叶的小亚细亚政治形势非常复杂，实力强大的城邦已不满足于仅控制本城及周边的土地，而是通过军事同盟、合邦（<em>sympoliteia</em>）等多种外交和军事手段吞并小城邦或将中小城邦收拢于自己的势力范围之内。
+尤其在小亚细亚的地中海沿岸一线，随着罗马于公元前 191—190 年联合当地盟友大胜东方的塞琉古王安条克三世（Antiochos III），罗马的两个盟友别迦摩（Pergamon）和罗德斯（Rhodos）大致以迈安德罗斯河（Maiandros，今土耳其中部大门德雷斯河[Büyük Menderes Nahri]）为界，河北归别迦摩控制，河南属罗德斯。</p>
+
+<h1 id="译名表">译名表</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>西文</th>
+      <th>希腊文</th>
+      <th>中译</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>sympoliteia</em></td>
+      <td>συμπολιτεία</td>
+      <td>合邦</td>
+    </tr>
+    <tr>
+      <td>Pergamon</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Rhodos</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Maiandros</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Büyük Menderes Nehri</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Wang Banban</name></author><category term="academic" /><summary type="html"><![CDATA[铭刻译评]]></summary></entry><entry><title type="html">anchoring monumental landscape in Delphi</title><link href="https://wangbanban17.github.io//blog/2022/utrecht/" rel="alternate" type="text/html" title="anchoring monumental landscape in Delphi" /><published>2022-02-24T00:00:00+00:00</published><updated>2022-02-24T00:00:00+00:00</updated><id>https://wangbanban17.github.io//blog/2022/anchoring</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2022/utrecht/"><![CDATA[<h1 id="anchoring-the-monumental-landscape">Anchoring the Monumental Landscape</h1>
 
 <p>Early Roman inscriptions contextualised in the Hellenistic sanctuary of Apollo Pythios</p>
 
@@ -193,64 +791,4 @@ Many then read my cursive signature as “2 212 212”, very easy :)</p>]]></con
 
 <p>»Connecting the new to the familiar«, the motto of the project Anchoring Innovation speaks a lot when I come to observe those early dedications by or for the Romans. Especially in Delphi where so many written and unwritten rules were familiar to local Delphians and the Amphictionians, it is important not only for the Romans but also for our later epigraphists to detect those rules, in order not to offer wayward and out-of-context interpretations.</p>
 
-<p>In the classical period, Delphi was not dominated by any single power; in the Hellenistic time, the sanctuary was familiar with changing powers from the Macedonians to the Aitolians, from Pergamon to Athens. It is in the Roman period that we see a total dominance of imperial symbols and dedications. But I find it important to describe the change of such mechanisms, not only as a game of power display, but also a game of honour in exchange for favour. This will be a larger story to tell. Thank you for your attention.</p>]]></content><author><name>Wang Banban</name></author><category term="academic" /><summary type="html"><![CDATA[a talk draft for a workshop at Universiteit Utrecht]]></summary></entry><entry><title type="html">數據庫檢索指南-Online Coin Hoards of the Roman Empire</title><link href="https://wangbanban17.github.io//blog/2021/ocre/" rel="alternate" type="text/html" title="數據庫檢索指南-Online Coin Hoards of the Roman Empire" /><published>2021-02-20T22:19:30+00:00</published><updated>2021-02-20T22:19:30+00:00</updated><id>https://wangbanban17.github.io//blog/2021/ocre</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2021/ocre/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[a guide to using Roman coinage database, in CN]]></summary></entry><entry><title type="html">數據庫檢索指南-Clauss-Slaby</title><link href="https://wangbanban17.github.io//blog/2021/LatinInscriptions/" rel="alternate" type="text/html" title="數據庫檢索指南-Clauss-Slaby" /><published>2021-01-24T22:19:30+00:00</published><updated>2021-01-24T22:19:30+00:00</updated><id>https://wangbanban17.github.io//blog/2021/LatinInscriptions</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2021/LatinInscriptions/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[a guide to using Latin epigraphy database, in CN]]></summary></entry><entry><title type="html">香港運動中的中國人</title><link href="https://wangbanban17.github.io//blog/2019/Hongkong/" rel="alternate" type="text/html" title="香港運動中的中國人" /><published>2019-06-09T22:19:30+00:00</published><updated>2019-06-09T22:19:30+00:00</updated><id>https://wangbanban17.github.io//blog/2019/Hongkong</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2019/Hongkong/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[Redirecting to my discussion blog]]></summary></entry><entry><title type="html">西方的正朔从何而来？</title><link href="https://wangbanban17.github.io//blog/2017/calendar/" rel="alternate" type="text/html" title="西方的正朔从何而来？" /><published>2017-01-06T19:19:30+00:00</published><updated>2017-01-06T19:19:30+00:00</updated><id>https://wangbanban17.github.io//blog/2017/calendar</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2017/calendar/"><![CDATA[<p>按：今天偶然翻自己的備忘錄，發現了不少有趣的舊稿，不少還沒寫完的，也有一些成形的。最近人生無趣，可以整理一些舊稿防止丟失。
-這篇舊稿寫於 2017 年初，原供《文派》，但是因爲某些原因導致文章被舉報、公號被暫封。今天才翻出來，以饗讀者。</p>
-
-<p>中国古代皇朝新立，往往会讲“改正朔”，即调整一年中第一个新月之日（就是定立一年之首）。董仲舒甚至建立了三统说，把建哪个月为一年之首和国家统治的政治模式、政治神学联系起来，后世也有王莽、李治、武则天等因循。</p>
-
-<p>我们现在所用的历法来自欧洲，那么为什么一月（或者说，雅努斯月）一日就成了一岁之始呢？古代人都曾经用什么来标记一年之首呢？本文拟略作探讨。</p>
-
-<p>谈到古代地中海的历法，不得不从埃及谈起。虽然东方的巴比伦、亚述都有过历法，但当时盛行的太阴历法（指以朔望月为基准，不大考虑回归年运行周期）与后来西方历法并不相合，这里就不多介绍了。</p>
-
-<p>埃及人的历法是典型的太阳历，他们把天狼星<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>偕日升或者尼罗河水的首次泛滥作为岁首。公元前一千年左右的埃及，天狼星约在今历 7 月 16 日左右与日偕升，而尼罗河水的首次泛滥则往往是今历八月份。但考虑到埃及史的时间很长，古代埃及的纬度差距也很大，天狼星偕日升这个标尺并不太准。古罗马史家肯索里乌斯曾经记载了这样的时间对应：</p>
-
-<blockquote>
-  <p>埃及新年在尤诺月（June）25日。但一百年前，在皇帝安东尼·庇护（Antoninus Pius）和 Bruttius Praeses 第二次共同担任执政官【公元139年】时，埃及新年在尤利乌斯月（July）20 日，这一日天狼星也升起。(21.10-11)&lt;/br&gt;
--Censorius, 21.10-11</p>
-</blockquote>
-
-<p>但是，埃及历法的核心并不是太阳历，而是一种农业历法，月份对他们来说不太重要，只要确定尼罗河水何时涨落、雨水何时丰枯，就足以满足广大农民种地的需求了。因此在很长时间，埃及的月份都是以「丰水季第二月」这样的称呼命名的，直到中王国时期国家逐渐强化，各种管理形式不断加强，将日期准确化的尝试才使每个月份得了一个名字。至此，埃及人有了稳定的 365 日历法，12 个月每月 30 日，岁末再加五日补齐。因为回归年（地球绕太阳一周）是 365.2422 日，埃及人每年就比地球少算了将近四分之一天，但他们把锅扔给了天象，经常说星空“变动不居”，大概是农民朋友并不太在乎一天时节到底多大吧。</p>
-
-<p>马其顿人的到来带来了新的历法体系。马其顿人像其他希腊人一样，使用含闰月的阴历，这个历法很像我们中国的农历，但其置闰的方式比我们的简单不少。马其顿的每个月都以节日或神名来命名，我们可以想象，因为每年八月十五都是中秋节，所以农历八月就可以叫中秋月；马其顿人就是这么做的。但他们似乎没有固定岁首的概念，而是固定以国王即位所在的月作为一年的头一个月，并保留原来月份的名称。今上担任国家主席是在 2013 年 3 月 14 日，如果这么算，公历 2016 年 9 月就应该是庆丰三年塞普坦月【中秋月？】，而我们现在生活的2017年1月就是庆丰三年雅努斯月【春节月？】了。这一历法直到塞琉古王国时期才把每年的开头放在钓斯月（ Dios ）1日。</p>
-
-<p>马其顿人来到埃及以后，自然也带来了他们的历法，但这种纯粹的太阴历并不适合农业生产，所以广大埃及农民群众仍然使用他们的太阳历，而政府系统则往往两历并用，一些纸草文书就可能同时写着「Dios 月 16 日」和「Phaophi 月 4 日」。不过在此安居数百年的托勒密王朝，对于埃及历法也有自己的想法，他们试图通过埃及传统祭司，颁布了著名的「卡诺佩更历」（Canope Reform） <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>，为埃及历法四年置一闰日。结果埃及人民还不领情，导致很多来自乡间的纸草上仍然使用不加闰的日期，为纸草学家又加了一项工作。就这样，同样是托勒密王朝的埃及，却有了两套历法，一套集中于官方文书（因首都亚历山大里亚故而也称亚历山大历），一套则用于日常生活。</p>
-
-<p>当然，就像现代社会中使用的财年、学年概念与自然年不同一样，托勒密埃及也在征税和通商时使用一套不同的财年系统。经济上的连续性要求这种财年系统有更稳定的岁首，不接纳马其顿传统的按国王即位月为岁首的模式，而用埃及冬一月或冬二月开始。</p>
-
-<p>罗马人有另一套历法系统，这套历法系统的来源其实是不大明确的。传说中罗马的建城者罗慕路斯创立了一套历法，一纪年为 304 天，以春分日为岁首【一说以春分日前某日为岁首】，每30或31日为一月，分别命名为 Martius, Aprilis, Maius, Iunius, Quintilis, Sextilis, September, October, November和December 。其中从 Quintilis 到 December 分别是以拉丁文数字五至十为词根。从 December 月结束到 Martius 月开始的 51 个日子，不事农耕，大概昏头不计日子也是可以的，于是竟然没有计日。传说中的第二位王努玛（Numa）看这 51 日不好，就造了两个新月雅努斯月（Ianuarius）和菲布鲁月（Februarius）【一说 Februarius 在 Ianuarius 之前】。他又看奇数不好，就把所有的月份按照朔望月 29.53059 日，都用奇数日 29 或 31 日，只有菲布鲁月留了 28 日，并在当月设祓除节（ Februa ）来驱邪。【 Plutarch, Numa, 18.】</p>
-
-<p>李维的记载则与此不同：</p>
-
-<blockquote>
-  <p>他首先按照月亮的运行把一年分为十二个月。由于月亮每月不满三十天，并且围太阳运转，全年少十一天，他设置闰月，如此安排年，以至第二十年，所有年期满时，天数与它们开始时太阳的同一位置相吻合。&lt;/br&gt;
--Livius, 1.19.6</p>
-</blockquote>
-
-<p>这个记载简直是马其顿式历法的罗马版。罗马那时是否有这种纪年法，值得怀疑，尤其是罗马旧历不用 30 日时长，所以这个记载大概是送秦琼上汜水关。不过李维记载的置闰发确实在罗马史的很长时间使用过。玛克罗比乌斯（ Macrobius ）的《农神节》（ Saturnalia ）更为详尽地记载了共和国历法如何运行，并且被著名的《安奇奥大岁时纪》（ Fasti Antiates Maiores ）实物证明。至少在三世纪以后，闰月（ Intercalaris ）都被置于菲布鲁月的「结礼日」（ Terminalia ，玛尔斯月朔日前七天即菲布鲁月 23 日）之后，菲布鲁月剩下的五天则归于这个闰月之中。Terminalia 当日是 Terminus 神的祭礼，而 Terminus 也有“终结点”的意思，这一日很可能就是罗马旧历一年的最后时期，而相应地玛尔斯月（ Martius, March ）朔日（ Kalends ，即 1 号）就是一岁之首了。</p>
-
-<p>政治的发展带来了新的需求。罗马共和国的执政官每年一任，人们也就以这一年的两个执政官名字来指这一年（当 A 和 B 担任执政官那年），而执政官上任的日子就常常被当作公务年的岁首。李维曾经提到过诸多执政官上任日，但最重要的就是玛尤斯月朔日（ Maius 1）玛尔斯月的望日（ Martius 15 ）。公元前 222 年，两位出征的执政官 C. Flaminius 和 P. Furius Philus 都在玛尔斯月朔望之间回城凯旋。根据罗马的习俗，如果战争进行时将军是执政官，即使凯旋时任期已过也可以按照执政官礼庆祝凯旋式。就这样，任期本该在玛尔斯月 1 号结束的 Flaminius 和 P. Furius Philus 骑着高头大马，分别在望日前 6 天（ 9 号）和 4 天（ 11 号）享受凯旋式荣光进入罗马城。但是根据普鲁塔克的记载（ Marcellus, 4.3-4 ），在政治斗争中这两人都迅速被解职，新执政官 Marcellus 和 Scipio Calvus 则很快上任，因此很有理由认为这两位就是在望日上任的。</p>
-
-<p>到了公元前 154 年，事情又有了变化。根据 Cassiodorus 和现存的岁时纪 Fasti Praenestini <sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>的记载，这一年的执政官Q. Fulvius (Nobilior) 和 T. Annius (Luscus) 第一次在雅努斯月一日上任。李维作品的大纲 Periochae 47.13-14 则记载，因为一场在西班牙的暴动，153 年的执政官选举提前到了雅努斯月，这样两位 154 年的执政官就只任职 10 个月，而此后执政官就都在雅努斯月 1 日了。至于雅努斯一面向旧年一面向新年的说法，则是在此之后产生的。<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup> 自此以后，雅努斯月 1 日就成了新年首日，几乎再不改变。在公元前 67-55 年的《安奇奥大岁时纪》里，雅努斯月就在第一列。</p>
-
-<p>当然没有改变大概是不可能的。恺撒就是最想改变的人之一，正如他改变了罗马无数的建筑与城市规划习俗，历法当然也要调整修改。他发现旧历法在公元前一世纪颁设闰月很不稳定（当然这主要是因为战争频仍），以致天象紊乱，礼制不安。大概是恺撒在公元前 48 年来到埃及，了解了埃及的 365 日历法（当然是卡诺配更历后），于是引入了太阳历历法，把原来 31 日和 29 日各月变成了 31 日和 30 日（不幸的菲布鲁月还是没有加日），并为此在公元前 47 年诺文月（ November ）之后又加了 67 日。学者对于加入这么多日子的目的并不确定，不过可以猜测，这样的调整目的是将天文上的冬至日与新年结合起来。按照现在的历法计算，前 46 年的雅努斯月 1 日是现在的公元前 47 年的 12 月 21 日，这和当年冬至点时间相吻合。不过恺撒的数学还是不大好，在设闰之时决定每三年在 Terminalia 日后再加一日，当然 Cassius Dio 的解释是他为了避免下一年的雅努斯月 1 日是八日一度的集市日，但这样的结果是历法平均年成了 365.3333 日，比回归年多了 0.0911 日，十一年就多出一天。不过恺撒在改革后很快就遇刺身亡，而他死亡当年，他的继承者屋大维就宣布，原来的 Quintilis 月改为以恺撒的名字 Iulius 命名。奥古斯都很快对恺撒的历法进行修正，在公元前 17 年（这一年的雅努斯月 1 日比恺撒改革时早了 3 日）开始停闰十一年（少了三个闰日），并自此以后四年一闰，加上在公元前 8 年把 Sextilis 月改称为 Augustus 月。历法的平均年就变成了 365.25 日，虽然还比回归年长了 0.0078 日，每百年要多出 0.78 日，但在当时的时代已经是相当精确了，并且还和埃及祭司历法完全吻合，埃及日和罗马日一一对应起来。这套修正后的历法就是通行西欧一千六百年的儒略历。</p>
-
-<p>基督教是带来新改革的动力。在基督教时代以后，计算复活节、圣诞节和礼拜成为必需工作，而基督教七日一周的制度也取代了罗马。8 日一市。但是岁首的计算也变得复杂起来：拜占庭人使用 September 1 作为岁首【并且至今仍然由东正教会礼仪年使用】；在中世纪西欧，虽然 January 1 仍然保存“新年日”的名号，但在改换新年时，有些地方用圣诞节（ December 25 ），有些人用耶稣受洗日（ March 25 ），法国人也有用过复活节。而复活节的计算则成为了儒略历改革的动因。从第一次尼西亚大公会议（ 325 年）到十六世纪，已经过去了一千二百多年，儒略历和回归年差出了十一天多，意识到这点的教会组织学者进行修订，并在 1582 年由教宗额我略十三世公布：为了和回归年谐和（主要是为和尼西亚大公会议时的历法谐和），1582 年 10 月 5 日到 14 日一共十天被抹去，并且每四百年取消三个闰日，这样历法的平均年长就成了 365.2425 日，精确度极大提升。但这个新历法是由天主教会推行的，因此基督教的很多非天主教会接受该历法较晚，故到了二十世纪我们都要注意历法转换问题；而且，在东方正教会和叙利亚教会等地，人们仍然使用儒略历计算节日，因此他们的圣诞节比 12 月 25 日要晚 13 天（在额我略之后又晚了三天），是 1 月 7 日。如果我们往回计算，那么奥古斯都时代的历法就要比我们早出将近 15 日，那么那年的雅努斯月 1 号就应该算是我们的 12 月 17 日了。</p>
-
-<p>说了这么多，其主要目的就是说明：我们今天所过的新年，其实也不过是人为规定的一天，它在几千年前还有冬至的意义，而到了现在则不过是普通的一天罢了。当然，人们需要的一些仪式感，以及除旧迎新的历史勾销倾向，都让新年承载了更多的意味。这篇文章，本来也是想在 2017 年 1 月 1 日写成，却阴差阳错落到了这个日子，大概也是为我这个没什么仪式感的人拖延症爆发，做一个十分强词夺理的开脱吧。</p>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>埃及人用 Sopdet 称之，希腊人称埃及人最重视的这颗星为 Sothis ，但是大多数的历法学家都认为这个 Sothis 就是天狼星（Sirius）。 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>A. J. Spalinger, The Canopus Stela, in A. J. Spalinger, Three Studies on Egyptian Feasts and their Chronological Implications (Baltimore, 1992) 31. Roger S. Bagnall &amp; Peter Derow (eds.), The Hellenistic Period: Historical Sources in Translation, London: Wiley-Blackwell, 2003, pp.264-8. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3" role="doc-endnote">
-      <p>Ad Kal. Ian.—[Feriae Aescu]lapio. Vediovi. in insula (Tiburtina). Hae et [al]iae Calendae appellantur quia [dierum pri]mus is dies est quos pontifex minor quo[libet] mense ad nonas sin[gulas calat in Capi]tolio in curia Cala[bra—Hic ann]us no[vus incipit,] quia eo die mag. in. eunt (sic) quod coepit [u.] c. a. DCI. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:4" role="doc-endnote">
-      <p>值得注意的是，这一说法据说出自153年执政官Q. Fulvius Nobilior的父亲M. Fulvius Nobilior（198年执政官）。 <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name></name></author><category term="reading" /><summary type="html"><![CDATA[A post on western calendar Day 1, in CN]]></summary></entry></feed>
+<p>In the classical period, Delphi was not dominated by any single power; in the Hellenistic time, the sanctuary was familiar with changing powers from the Macedonians to the Aitolians, from Pergamon to Athens. It is in the Roman period that we see a total dominance of imperial symbols and dedications. But I find it important to describe the change of such mechanisms, not only as a game of power display, but also a game of honour in exchange for favour. This will be a larger story to tell. Thank you for your attention.</p>]]></content><author><name>Wang Banban</name></author><category term="academic" /><summary type="html"><![CDATA[a talk draft for a workshop at Universiteit Utrecht]]></summary></entry><entry><title type="html">數據庫檢索指南-Online Coin Hoards of the Roman Empire</title><link href="https://wangbanban17.github.io//blog/2021/ocre/" rel="alternate" type="text/html" title="數據庫檢索指南-Online Coin Hoards of the Roman Empire" /><published>2021-02-20T22:19:30+00:00</published><updated>2021-02-20T22:19:30+00:00</updated><id>https://wangbanban17.github.io//blog/2021/ocre</id><content type="html" xml:base="https://wangbanban17.github.io//blog/2021/ocre/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[a guide to using Roman coinage database, in CN]]></summary></entry></feed>
